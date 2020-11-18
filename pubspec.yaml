@@ -2,7 +2,7 @@ name: csv_hashmap
 description: A new Flutter package project.
 version: 0.0.1
 author: KLAUS WONG
-homepage:
+homepage: https://github.com/Klaus-Wong/csv_hashmap
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
