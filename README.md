@@ -6,7 +6,7 @@ A composable, Future-based library for convert the .csv file to HashMap.
 This package enable you to convert your .csv file (from your local assets folder) to HashMap format. It's multi-platform, and supports mobile, desktop,
 and the browser.
 # Demo
-![](flutter-csv-hashMap.gif)
+![](refMaterials/flutter-csv-hashMap.gif)
 
 
 ## Using
