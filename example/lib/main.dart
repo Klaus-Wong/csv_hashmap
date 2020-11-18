@@ -9,7 +9,6 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   refHashMap = await CSV_HashMap().hashMapConvertor(refList: ["data","open", "high", "low", "close", "adjClose", "vol"],
       csvPath: "assets/chartData/TSLA/TSLA_Daily.csv");
-  print(refHashMap["data"]);
   runApp(MyApp());
 }
 
